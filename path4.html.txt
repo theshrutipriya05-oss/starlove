@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="4;url=love.html">
+<style>
+body{
+background:#050714;
+color:white;
+text-align:center;
+padding-top:40vh;
+font-family:Segoe UI;
+}
+</style>
+</head>
+<body>
+<h2>Not knowing is part of growing.</h2>
+<p>You don’t have to have it all figured out.</p>
+</body>
+</html>
